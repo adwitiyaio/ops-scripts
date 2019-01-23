@@ -4,4 +4,4 @@ This is a set of usefule Ops scripts to perform common actions like DB backup, u
 
 # Scripts
 
-- [MongoDB Backup & GCloud Storage Upload](./scripts/mongo-gcloud-backup.sh)
+- [MongoDB Database Backup & GCloud Storage Upload](./scripts/mongo-gcloud-backup.sh)
