@@ -1,6 +1,6 @@
 # Preface
 
-This is a set of usefule Ops scripts to perform common actions like DB backup, upload to a cloud storage and so on.
+This is a set of useful Ops scripts to perform common actions like DB backup, upload to a cloud storage and so on.
 
 # Scripts
 
